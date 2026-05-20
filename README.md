@@ -27,8 +27,6 @@ Quem sou? Por favor, fique a vontade!
 
 Minhas redes para comunicação e conhecimento:
 
-<br>
-
 <div> 
   
   <a href="https://instagram.com/guiinuness___" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -40,6 +38,18 @@ Minhas redes para comunicação e conhecimento:
 
 ##
 
-<div align="center">
-  <img src="https://github-readme-stats-9z79tbd8k-guilherme-nunes-projects1.vercel.app/api/top-langs?username=guinunes07&layout=compact&bg_color=151515&title_color=ffffff&text_color=9e9e9e&border_color=2b2b2b&v=1"  alt="Linguagens mais usadas" />
-</div>
+Linguagens mais utilizadas por mim, **estou em processo de aprendizado**:
+
+<p align="center">
+  <img src="https://github-readme-stats-blond-phi-71.vercel.app/api/top-langs?username=guinunes07&layout=compact&bg_color=151515&title_color=ffffff&text_color=9e9e9e&border_color=2b2b2b" alt="Linguagens mais usadas" />
+</p>
+
+##
+
+Gratidão por comparecer e verificar alguns projetos postados aqui no GitHub!  
+Estou em processo de aprendizado, contudo, estou organizando e atualizando conforme os projetos feitos.
+
+<br>
+
+Atenciosamente,  
+Guilherme Nunes.
