@@ -41,5 +41,5 @@ Minhas redes para comunicação e conhecimento:
 ##
 
 <div align="center">
-  <img src="https://github-readme-stats-9z79tbd8k-guilherme-nunes-projects1.vercel.app/api/top-langs?username=guinunes07&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats-9z79tbd8k-guilherme-nunes-projects1.vercel.app/api/top-langs?username=guinunes07&layout=compact&bg_color=151515&title_color=ffffff&text_color=9e9e9e&border_color=2b2b2b&v=1"  alt="Linguagens mais usadas" />
 </div>
